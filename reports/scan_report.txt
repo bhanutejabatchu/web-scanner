@@ -1,0 +1,6 @@
+[-] X-Frame-Options: Missing
+[-] Strict-Transport-Security: Missing
+[-] Content-Security-Policy: Missing
+[-] X-Content-Type-Options: Missing
+[+] No SQL Injection vulnerability found.
+[+] No XSS vulnerability found.
